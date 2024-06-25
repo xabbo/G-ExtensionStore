@@ -273,10 +273,14 @@
   },
   {
     "extension": "RoomLogger",
-    "rating": 170
+    "rating": 180
   },
   {
     "extension": "Habbo Scanner",
     "rating": 210
+  },
+  {
+    "extension": "G-AutoLikeRooms",
+    "rating": 90
   }
 ]
