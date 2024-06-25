@@ -5637,7 +5637,7 @@
   },
   {
     "title": "RoomLogger",
-    "version": "1.1",
+    "version": "1.2",
     "_object": {
       "title": "RoomLogger",
       "description": "The Best RoomLogger !\n\nLog Chats, Whispers, User Actions, User Stepping in certain locations...\nAnd all can be integrated with Discord!",
@@ -5646,10 +5646,10 @@
           "name": "Thauan",
           "hotel": ".com.br",
           "username": "Erotico",
-          "discord": "thauan0x"
+          "discord": "thauanvargas"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "categories": [
         "Usability",
         "Fun"
@@ -5710,9 +5710,19 @@
         "timestamp": 1708356688818,
         "locked": false,
         "score": 50
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1255292503205085214",
+        "extVersion": "1.2",
+        "type": "update",
+        "timestamp": 1719355455334,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1708356688818
+    "latestEmbed": 1719355455334
   },
   {
     "title": "Habbo Scanner",
@@ -5827,5 +5837,78 @@
       }
     ],
     "latestEmbed": 1716072342590
+  },
+  {
+    "title": "G-AutoLikeRooms",
+    "version": "1.0.0",
+    "_object": {
+      "title": "G-AutoLikeRooms",
+      "description": "Automatically give a like in all rooms you visit.",
+      "authors": [
+        {
+          "name": "Alynva",
+          "hotel": ".com.br",
+          "username": "alynva",
+          "discord": "alynva",
+          "twitter": "Alynva"
+        }
+      ],
+      "version": "1.0.0",
+      "categories": [
+        "Usability"
+      ],
+      "source": "https://github.com/Alynva/G-AutoLikeRooms",
+      "readme": "https://github.com/Alynva/G-AutoLikeRooms/blob/main/README.md",
+      "releases": "https://github.com/Alynva/G-AutoLikeRooms/releases",
+      "stable": true,
+      "framework": {
+        "name": "G-Node",
+        "version": "0.2.15"
+      },
+      "language": "ts-node",
+      "commands": {
+        "default": [
+          "java",
+          "-jar",
+          "NodeExtensionSetup.jar",
+          "-npm",
+          "start",
+          "-v",
+          "15.0.0",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Linux",
+          "Windows",
+          "Mac"
+        ],
+        "clients": [
+          "Flash"
+        ]
+      },
+      "submissionDate": "09-06-2024 14:00:00",
+      "updateDate": "09-06-2024 14:00:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1255292501015924888",
+        "extVersion": "1.0.0",
+        "type": "publish",
+        "timestamp": 1719355454868,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1719355454868
   }
 ]
