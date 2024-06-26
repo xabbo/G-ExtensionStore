@@ -3514,7 +3514,7 @@
         "username": "3duard",
         "discord": "@eduard",
         "extensionsCount": 1,
-        "reputation": 0
+        "reputation": 30
       }
     ],
     "version": "1.0.1",
@@ -3592,7 +3592,7 @@
     "submissionDate": "26-06-2024 02:40:00",
     "updateDate": "26-06-2024 02:40:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 30
   },
   {
     "title": "TradeBlocker",
