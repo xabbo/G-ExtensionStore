@@ -3533,7 +3533,7 @@
       "default": [
         "cmd",
         "/C",
-        "TalkToShout-Win.exe",
+        "TalkToShout-Windows.exe",
         "-c",
         "{cookie}",
         "-p",
@@ -3544,7 +3544,7 @@
       "windows": [
         "cmd",
         "/C",
-        "TalkToShout-Win.exe",
+        "TalkToShout-Windows.exe",
         "-c",
         "{cookie}",
         "-p",
