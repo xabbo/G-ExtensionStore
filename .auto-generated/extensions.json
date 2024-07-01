@@ -3517,7 +3517,7 @@
         "reputation": 110
       }
     ],
-    "version": "1.0.1",
+    "version": "1.1",
     "categories": [
       "Usability"
     ],
@@ -3526,14 +3526,14 @@
     "stable": true,
     "framework": {
       "name": "GoEarth",
-      "version": "0.0.1"
+      "version": "0.1.6"
     },
     "language": "Go",
     "commands": {
       "default": [
         "cmd",
         "/C",
-        "TalkToShout-Windows.exe",
+        "TalkToShout-win.exe",
         "-c",
         "{cookie}",
         "-p",
@@ -3544,7 +3544,7 @@
       "windows": [
         "cmd",
         "/C",
-        "TalkToShout-Windows.exe",
+        "TalkToShout-win.exe",
         "-c",
         "{cookie}",
         "-p",
@@ -3555,9 +3555,9 @@
       "mac": [
         "chmod",
         "+x",
-        "TalkToShout-Mac",
+        "TalkToShout-mac",
         "&&",
-        "./TalkToShout-Mac",
+        "./TalkToShout-mac",
         "-c",
         "{cookie}",
         "-p",
@@ -3568,9 +3568,9 @@
       "linux": [
         "chmod",
         "+x",
-        "TalkToShout-Linux",
+        "TalkToShout-linux",
         "&&",
-        "./TalkToShout-Linux",
+        "./TalkToShout-linux",
         "-c",
         "{cookie}",
         "-p",
@@ -3590,7 +3590,7 @@
       ]
     },
     "submissionDate": "26-06-2024 02:40:00",
-    "updateDate": "26-06-2024 02:40:00",
+    "updateDate": "30-06-2024 17:36:00",
     "isOutdated": false,
     "rating": 110
   },

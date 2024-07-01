@@ -5913,7 +5913,7 @@
   },
   {
     "title": "Talk To Shout Origins",
-    "version": "1.0.1",
+    "version": "1.1",
     "_object": {
       "title": "Talk To Shout Origins",
       "description": "Talk to shout, Shout to Talk, switch the functions with eachother",
@@ -5925,7 +5925,7 @@
           "discord": "@eduard"
         }
       ],
-      "version": "1.0.1",
+      "version": "1.1",
       "categories": [
         "Usability"
       ],
@@ -5934,14 +5934,14 @@
       "stable": true,
       "framework": {
         "name": "GoEarth",
-        "version": "0.0.1"
+        "version": "0.1.6"
       },
       "language": "Go",
       "commands": {
         "default": [
           "cmd",
           "/C",
-          "TalkToShout-Win.exe",
+          "TalkToShout-win.exe",
           "-c",
           "{cookie}",
           "-p",
@@ -5952,7 +5952,7 @@
         "windows": [
           "cmd",
           "/C",
-          "TalkToShout-Win.exe",
+          "TalkToShout-win.exe",
           "-c",
           "{cookie}",
           "-p",
@@ -5963,9 +5963,9 @@
         "mac": [
           "chmod",
           "+x",
-          "TalkToShout-Mac",
+          "TalkToShout-mac",
           "&&",
-          "./TalkToShout-Mac",
+          "./TalkToShout-mac",
           "-c",
           "{cookie}",
           "-p",
@@ -5976,9 +5976,9 @@
         "linux": [
           "chmod",
           "+x",
-          "TalkToShout-Linux",
+          "TalkToShout-linux",
           "&&",
-          "./TalkToShout-Linux",
+          "./TalkToShout-linux",
           "-c",
           "{cookie}",
           "-p",
@@ -5998,7 +5998,7 @@
         ]
       },
       "submissionDate": "26-06-2024 02:40:00",
-      "updateDate": "26-06-2024 02:40:00",
+      "updateDate": "30-06-2024 17:36:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6011,8 +6011,18 @@
         "timestamp": 1719364946004,
         "locked": false,
         "score": 100
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1257128082733797457",
+        "extVersion": "1.1",
+        "type": "update",
+        "timestamp": 1719793091624,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1719364946004
+    "latestEmbed": 1719793091624
   }
 ]
