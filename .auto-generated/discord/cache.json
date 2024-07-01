@@ -6024,5 +6024,68 @@
       }
     ],
     "latestEmbed": 1719793091624
+  },
+  {
+    "title": "StickiesArt",
+    "version": "1.4",
+    "_object": {
+      "title": "StickiesArt",
+      "description": "Write letters or phrases with stickies in your room or rooms where you have permission",
+      "authors": [
+        {
+          "name": "DanielaNaomi"
+        }
+      ],
+      "version": "1.4",
+      "categories": [
+        "Fun"
+      ],
+      "source": "https://github.com/DanielaNaomi/StickiesArt",
+      "stable": true,
+      "framework": {
+        "name": "Native",
+        "version": "1.5.3"
+      },
+      "language": "Java",
+      "commands": {
+        "default": [
+          "java",
+          "-jar",
+          "StickiesArt.jar",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Linux",
+          "Windows",
+          "Mac"
+        ],
+        "clients": [
+          "Flash"
+        ]
+      },
+      "submissionDate": "30-06-2024 19:50:10",
+      "updateDate": "30-06-2024 19:50:10",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1257144481619382332",
+        "extVersion": "1.4",
+        "type": "publish",
+        "timestamp": 1719797001615,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1719797001615
   }
 ]

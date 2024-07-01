@@ -3505,6 +3505,55 @@
     "rating": 90
   },
   {
+    "title": "StickiesArt",
+    "description": "Write letters or phrases with stickies in your room or rooms where you have permission",
+    "authors": [
+      {
+        "name": "DanielaNaomi",
+        "extensionsCount": 1,
+        "reputation": 0
+      }
+    ],
+    "version": "1.4",
+    "categories": [
+      "Fun"
+    ],
+    "source": "https://github.com/DanielaNaomi/StickiesArt",
+    "stable": true,
+    "framework": {
+      "name": "Native",
+      "version": "1.5.3"
+    },
+    "language": "Java",
+    "commands": {
+      "default": [
+        "java",
+        "-jar",
+        "StickiesArt.jar",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ]
+    },
+    "compatibility": {
+      "systems": [
+        "Linux",
+        "Windows",
+        "Mac"
+      ],
+      "clients": [
+        "Flash"
+      ]
+    },
+    "submissionDate": "30-06-2024 19:50:10",
+    "updateDate": "30-06-2024 19:50:10",
+    "isOutdated": false,
+    "rating": 0
+  },
+  {
     "title": "Talk To Shout Origins",
     "description": "Talk to shout, Shout to Talk, switch the functions with eachother",
     "authors": [
