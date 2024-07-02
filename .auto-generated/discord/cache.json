@@ -5913,7 +5913,7 @@
   },
   {
     "title": "Talk To Shout Origins",
-    "version": "1.1",
+    "version": "1.1.1",
     "_object": {
       "title": "Talk To Shout Origins",
       "description": "Talk to shout, Shout to Talk, switch the functions with eachother",
@@ -5925,7 +5925,7 @@
           "discord": "@eduard"
         }
       ],
-      "version": "1.1",
+      "version": "1.1.1",
       "categories": [
         "Usability"
       ],
@@ -5998,7 +5998,7 @@
         ]
       },
       "submissionDate": "26-06-2024 02:40:00",
-      "updateDate": "30-06-2024 17:36:00",
+      "updateDate": "02-07-2024 01:33:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6019,6 +6019,16 @@
         "extVersion": "1.1",
         "type": "update",
         "timestamp": 1719793091624,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1257494343879626772",
+        "extVersion": "1.1.1",
+        "type": "update",
+        "timestamp": 1719880415137,
         "locked": false,
         "score": 0
       }
