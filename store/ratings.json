@@ -290,5 +290,9 @@
   {
     "extension": "StickiesArt",
     "rating": 150
+  },
+  {
+    "extension": "G-Trader",
+    "rating": 50
   }
 ]
