@@ -1681,7 +1681,7 @@
         "name": "0xb0bba",
         "discord": "disciplined",
         "extensionsCount": 1,
-        "reputation": 190
+        "reputation": 210
       }
     ],
     "version": "0.1.1",
@@ -1760,7 +1760,7 @@
     "submissionDate": "03-07-2024 16:00:00",
     "updateDate": "03-07-2024 16:00:00",
     "isOutdated": false,
-    "rating": 190
+    "rating": 210
   },
   {
     "title": "G-Translator",
@@ -3652,7 +3652,7 @@
         "username": "3duard",
         "discord": "@eduard",
         "extensionsCount": 1,
-        "reputation": 155
+        "reputation": 180
       }
     ],
     "version": "1.1.1",
@@ -3730,7 +3730,7 @@
     "submissionDate": "26-06-2024 02:40:00",
     "updateDate": "02-07-2024 01:33:00",
     "isOutdated": false,
-    "rating": 155
+    "rating": 180
   },
   {
     "title": "TradeBlocker",
