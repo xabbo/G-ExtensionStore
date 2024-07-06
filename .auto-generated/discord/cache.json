@@ -6120,7 +6120,7 @@
   },
   {
     "title": "G-Trader",
-    "version": "0.1.1",
+    "version": "0.2.1",
     "_object": {
       "title": "G-Trader",
       "description": "Adds a :trade [amount] command to automatically add multiples of an item to the trade in Habbo Origins.",
@@ -6130,13 +6130,14 @@
           "discord": "disciplined"
         }
       ],
-      "version": "0.1.1",
+      "version": "0.2.1",
       "categories": [
         "Usability",
         "Trading"
       ],
       "source": "https://github.com/0xb0bba/G-Trader/",
       "readme": "https://github.com/0xb0bba/G-Trader/blob/main/README.md",
+      "releases": "https://github.com/0xb0bba/G-Trader/releases",
       "stable": true,
       "framework": {
         "name": "GoEarth",
@@ -6204,7 +6205,7 @@
         ]
       },
       "submissionDate": "03-07-2024 16:00:00",
-      "updateDate": "03-07-2024 16:00:00",
+      "updateDate": "05-07-2024 22:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6217,6 +6218,16 @@
         "timestamp": 1720024752567,
         "locked": false,
         "score": 200
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1259028690801791006",
+        "extVersion": "0.2.1",
+        "type": "update",
+        "timestamp": 1720246231923,
+        "locked": false,
+        "score": 0
       }
     ],
     "latestEmbed": 1720024752567
