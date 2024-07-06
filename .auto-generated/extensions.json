@@ -1681,7 +1681,7 @@
         "name": "0xb0bba",
         "discord": "disciplined",
         "extensionsCount": 1,
-        "reputation": 220
+        "reputation": 230
       }
     ],
     "version": "0.3.0",
@@ -1761,7 +1761,7 @@
     "submissionDate": "03-07-2024 16:00:00",
     "updateDate": "06-07-2024 18:00:00",
     "isOutdated": false,
-    "rating": 220
+    "rating": 230
   },
   {
     "title": "G-Translator",
@@ -3601,7 +3601,7 @@
       {
         "name": "DanielaNaomi",
         "extensionsCount": 1,
-        "reputation": 250
+        "reputation": 260
       }
     ],
     "version": "1.6",
@@ -3641,7 +3641,7 @@
     "submissionDate": "30-06-2024 19:50:10",
     "updateDate": "06-07-2024 11:12:10",
     "isOutdated": false,
-    "rating": 250
+    "rating": 260
   },
   {
     "title": "Talk To Shout Origins",
@@ -4085,7 +4085,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 1,
-        "reputation": 0
+        "reputation": 50
       }
     ],
     "version": "1.0",
@@ -4163,7 +4163,7 @@
     "submissionDate": "06-07-2024 09:00:00",
     "updateDate": "06-07-2024 09:00:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 50
   },
   {
     "title": "xabbo",
