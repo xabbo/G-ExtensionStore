@@ -1889,7 +1889,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 1,
-        "reputation": 0
+        "reputation": 30
       }
     ],
     "version": "1.0",
@@ -1940,7 +1940,7 @@
     "submissionDate": "06-07-2024 23:45:00",
     "updateDate": "06-07-2024 23:45:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 30
   },
   {
     "title": "G-Whisper",
@@ -4146,7 +4146,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 150
+        "reputation": 200
       }
     ],
     "version": "1.0",
@@ -4224,7 +4224,7 @@
     "submissionDate": "07-07-2024 07:00:00",
     "updateDate": "07-07-2024 07:00:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 50
   },
   {
     "title": "fastbuy",
@@ -4236,7 +4236,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 150
+        "reputation": 200
       }
     ],
     "version": "1.0",

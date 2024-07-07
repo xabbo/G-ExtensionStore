@@ -298,5 +298,13 @@
   {
     "extension": "fastbuy",
     "rating": 150
+  },
+  {
+    "extension": "easydice",
+    "rating": 50
+  },
+  {
+    "extension": "G-WallMover",
+    "rating": 30
   }
 ]
