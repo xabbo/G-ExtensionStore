@@ -269,7 +269,7 @@
   },
   {
     "extension": "Chatty",
-    "rating": 120
+    "rating": 145
   },
   {
     "extension": "RoomLogger",
@@ -293,7 +293,7 @@
   },
   {
     "extension": "G-Trader",
-    "rating": 285
+    "rating": 310
   },
   {
     "extension": "fastbuy",
@@ -301,10 +301,10 @@
   },
   {
     "extension": "easydice",
-    "rating": 130
+    "rating": 140
   },
   {
     "extension": "G-WallMover",
-    "rating": 310
+    "rating": 330
   }
 ]

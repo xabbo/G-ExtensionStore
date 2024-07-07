@@ -276,7 +276,7 @@
       {
         "name": "Gitosaur",
         "extensionsCount": 1,
-        "reputation": 120
+        "reputation": 145
       }
     ],
     "version": "2.3",
@@ -320,7 +320,7 @@
     "submissionDate": "24-01-2024 21:45:00",
     "updateDate": "21-03-2024 22:08:00",
     "isOutdated": false,
-    "rating": 120
+    "rating": 145
   },
   {
     "title": "Clear Wired Selection",
@@ -1681,7 +1681,7 @@
         "name": "0xb0bba",
         "discord": "disciplined",
         "extensionsCount": 1,
-        "reputation": 285
+        "reputation": 310
       }
     ],
     "version": "0.4.0",
@@ -1761,7 +1761,7 @@
     "submissionDate": "03-07-2024 16:00:00",
     "updateDate": "07-07-2024 17:00:00",
     "isOutdated": false,
-    "rating": 285
+    "rating": 310
   },
   {
     "title": "G-Translator",
@@ -1889,7 +1889,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 1,
-        "reputation": 310
+        "reputation": 330
       }
     ],
     "version": "1.0",
@@ -1940,7 +1940,7 @@
     "submissionDate": "06-07-2024 23:45:00",
     "updateDate": "06-07-2024 23:45:00",
     "isOutdated": false,
-    "rating": 310
+    "rating": 330
   },
   {
     "title": "G-Whisper",
@@ -4146,7 +4146,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 300
+        "reputation": 310
       }
     ],
     "version": "1.1",
@@ -4224,7 +4224,7 @@
     "submissionDate": "07-07-2024 07:00:00",
     "updateDate": "07-07-2024 07:00:00",
     "isOutdated": false,
-    "rating": 130
+    "rating": 140
   },
   {
     "title": "fastbuy",
@@ -4236,7 +4236,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 300
+        "reputation": 310
       }
     ],
     "version": "1.0",
