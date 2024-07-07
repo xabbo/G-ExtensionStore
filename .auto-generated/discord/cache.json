@@ -6368,10 +6368,10 @@
   },
   {
     "title": "easydice",
-    "version": "1.0",
+    "version": "1.1",
     "_object": {
       "title": "easydice",
-      "description": "An extension to roll/reset dice for you.",
+      "description": "Use :setup, and reset/roll 5 dice in order. Now, :close, and :roll will roll/close those dice for you.",
       "authors": [
         {
           "name": "chirp24",
@@ -6380,7 +6380,7 @@
           "discord": "@p1nk_axoloti"
         }
       ],
-      "version": "1.0",
+      "version": "1.1",
       "categories": [
         "Usability"
       ],
@@ -6466,6 +6466,16 @@
         "timestamp": 1720349654965,
         "locked": false,
         "score": 120
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1259629836981506222",
+        "extVersion": "1.1",
+        "type": "update",
+        "timestamp": 1720389556388,
+        "locked": false,
+        "score": 0
       }
     ],
     "latestEmbed": 1720349654965
