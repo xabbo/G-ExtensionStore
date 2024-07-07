@@ -6355,5 +6355,109 @@
       }
     ],
     "latestEmbed": 1720284497640
+  },
+  {
+    "title": "easydice",
+    "version": "1.0",
+    "_object": {
+      "title": "easydice",
+      "description": "An extension to roll/reset dice for you.",
+      "authors": [
+        {
+          "name": "chirp24",
+          "hotel": ".com",
+          "username": "chirp",
+          "discord": "@p1nk_axoloti"
+        }
+      ],
+      "version": "1.0",
+      "categories": [
+        "Usability"
+      ],
+      "source": "https://github.com/chirp24/easydice/tree/main",
+      "readme": "https://github.com/chirp24/easydice/blob/main/README.md",
+      "stable": true,
+      "framework": {
+        "name": "GoEarth",
+        "version": "0.2.3"
+      },
+      "language": "Go",
+      "commands": {
+        "default": [
+          "cmd",
+          "/C",
+          "easydice-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "windows": [
+          "cmd",
+          "/C",
+          "easydice-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "mac": [
+          "chmod",
+          "+x",
+          "easydice-mac",
+          "&&",
+          "./fastbuy-mac",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "linux": [
+          "chmod",
+          "+x",
+          "easydice-linux",
+          "&&",
+          "./fastbuy-linux",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "clients": [
+          "Origins"
+        ]
+      },
+      "submissionDate": "07-07-2024 07:00:00",
+      "updateDate": "07-07-2024 07:00:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1259462479168405646",
+        "extVersion": "1.0",
+        "type": "publish",
+        "timestamp": 1720349654965,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1720349654965
   }
 ]
