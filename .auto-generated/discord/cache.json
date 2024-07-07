@@ -6368,7 +6368,7 @@
   },
   {
     "title": "easydice",
-    "version": "1.1",
+    "version": "1.2",
     "_object": {
       "title": "easydice",
       "description": "Use :setup, and reset/roll 5 dice in order. Now, :close, and :roll will roll/close those dice for you.",
@@ -6380,7 +6380,7 @@
           "discord": "@p1nk_axoloti"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "categories": [
         "Usability"
       ],
@@ -6453,7 +6453,7 @@
         ]
       },
       "submissionDate": "07-07-2024 07:00:00",
-      "updateDate": "07-07-2024 07:00:00",
+      "updateDate": "07-07-2024 19:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6474,6 +6474,16 @@
         "extVersion": "1.1",
         "type": "update",
         "timestamp": 1720389556388,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1259651262157164586",
+        "extVersion": "1.2",
+        "type": "update",
+        "timestamp": 1720394664550,
         "locked": false,
         "score": 0
       }
