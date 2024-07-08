@@ -6047,7 +6047,7 @@
   },
   {
     "title": "StickiesArt",
-    "version": "1.6",
+    "version": "1.7",
     "_object": {
       "title": "StickiesArt",
       "description": "Write letters or phrases with stickies in your room or rooms where you have permission",
@@ -6056,7 +6056,7 @@
           "name": "DanielaNaomi"
         }
       ],
-      "version": "1.6",
+      "version": "1.7",
       "categories": [
         "Fun"
       ],
@@ -6091,7 +6091,7 @@
         ]
       },
       "submissionDate": "30-06-2024 19:50:10",
-      "updateDate": "06-07-2024 11:12:10",
+      "updateDate": "07-07-2024 23:19:10",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6124,9 +6124,19 @@
         "timestamp": 1720284498940,
         "locked": false,
         "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1259825689163595788",
+        "extVersion": "1.7",
+        "type": "update",
+        "timestamp": 1720436251150,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720168410665
+    "latestEmbed": 1720436251150
   },
   {
     "title": "G-Trader",
