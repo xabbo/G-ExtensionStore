@@ -1681,7 +1681,7 @@
         "name": "0xb0bba",
         "discord": "disciplined",
         "extensionsCount": 1,
-        "reputation": 310
+        "reputation": 335
       }
     ],
     "version": "0.4.0",
@@ -1761,7 +1761,7 @@
     "submissionDate": "03-07-2024 16:00:00",
     "updateDate": "07-07-2024 17:00:00",
     "isOutdated": false,
-    "rating": 310
+    "rating": 335
   },
   {
     "title": "G-Translator",
@@ -4146,7 +4146,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 310
+        "reputation": 355
       }
     ],
     "version": "1.3",
@@ -4224,7 +4224,7 @@
     "submissionDate": "07-07-2024 07:00:00",
     "updateDate": "07-07-2024 19:50:00",
     "isOutdated": false,
-    "rating": 140
+    "rating": 185
   },
   {
     "title": "fastbuy",
@@ -4236,7 +4236,7 @@
         "username": "chirp",
         "discord": "@p1nk_axoloti",
         "extensionsCount": 2,
-        "reputation": 310
+        "reputation": 355
       }
     ],
     "version": "1.0",
