@@ -2008,6 +2008,54 @@
     "rating": 250
   },
   {
+    "title": "G-itemViewer",
+    "description": "A Habbo-styled GUI used to count and inspect Inventory and Room furni and wallitems",
+    "authors": [
+      {
+        "name": "madlad",
+        "extensionsCount": 1,
+        "reputation": 0
+      }
+    ],
+    "version": "0.1.0",
+    "categories": [
+      "Usability"
+    ],
+    "source": "https://github.com/bolognesandwiches/G-Inventory-Viewer/tree/master",
+    "readme": "https://github.com/bolognesandwiches/G-Inventory-Viewer/blob/master/README.md",
+    "stable": true,
+    "framework": {
+      "name": "GoEarth",
+      "version": "0.2.3"
+    },
+    "language": "Go",
+    "commands": {
+      "default": [
+        "cmd",
+        "/C",
+        "G-itemViewer.exe",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ]
+    },
+    "compatibility": {
+      "systems": [
+        "Windows"
+      ],
+      "clients": [
+        "Origins"
+      ]
+    },
+    "submissionDate": "09-07-2024 12:47:00",
+    "updateDate": "09-07-2024 12:47:00",
+    "isOutdated": false,
+    "rating": 0
+  },
+  {
     "title": "GChatSaver",
     "description": "GChatSaver is an extension for saving all user chats and room information\n\nSaves all user chats (whispers included)\nSaves Room infos (room name, room owner, room description)\nSaves chat logs in the Extension folder\nYou can easily access your chat log by typing :gchat\nYou can see all the filtering options by typing :gchatfilters which will show you a list on how to add, remove or clean filters.",
     "authors": [
