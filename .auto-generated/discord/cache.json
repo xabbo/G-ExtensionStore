@@ -6512,17 +6512,17 @@
   },
   {
     "title": "G-WallMover",
-    "version": "1.0",
+    "version": "1.1",
     "_object": {
       "title": "G-WallMover",
-      "description": "Lets you Move fast Wall Items in Origin by scrolling with your Mousewheel\nUse the Command #wallmover to open the app",
+      "description": "Lets you Move fast Wall Items in Origin by scrolling with your Mousewheel",
       "authors": [
         {
           "name": "QDave",
           "discord": "qdave"
         }
       ],
-      "version": "1.0",
+      "version": "1.1",
       "categories": [
         "Usability"
       ],
@@ -6568,7 +6568,7 @@
         ]
       },
       "submissionDate": "06-07-2024 23:45:00",
-      "updateDate": "06-07-2024 23:45:00",
+      "updateDate": "09-07-2024 20:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6581,6 +6581,16 @@
         "timestamp": 1720349806375,
         "locked": false,
         "score": 320
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1260351649113968682",
+        "extVersion": "1.1",
+        "type": "update",
+        "timestamp": 1720561649733,
+        "locked": false,
+        "score": 0
       }
     ],
     "latestEmbed": 1720349806375
