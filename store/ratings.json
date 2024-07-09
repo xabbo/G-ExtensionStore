@@ -306,5 +306,9 @@
   {
     "extension": "G-WallMover",
     "rating": 330
+  },
+  {
+    "extension": "G-itemViewer",
+    "rating": 90
   }
 ]
