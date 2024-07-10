@@ -310,5 +310,9 @@
   {
     "extension": "G-itemViewer",
     "rating": 210
+  },
+  {
+    "extension": "Quick Pickup Utils",
+    "rating": 70
   }
 ]
