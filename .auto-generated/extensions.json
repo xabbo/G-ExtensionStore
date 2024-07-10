@@ -3041,6 +3041,67 @@
     "rating": 525
   },
   {
+    "title": "Quick Pickup Utils",
+    "description": "Chat commands to quickly pickup items in your Habbo flat\n\nCommands:\n- :pickup <wall | floor> <amount>\n- :pickup <item_name> <amount>\n\nExamples:\n- :pickup wall 10\n- :pickup rare_daffodil_rug 5",
+    "authors": [
+      {
+        "name": "SimonFlapse",
+        "username": "PolarBear",
+        "discord": "simonflapse",
+        "extensionsCount": 1,
+        "reputation": 0
+      },
+      {
+        "name": "Hotel",
+        "username": "Hotel",
+        "discord": "jouster",
+        "extensionsCount": 1,
+        "reputation": 0
+      }
+    ],
+    "version": "1.0.0",
+    "categories": [
+      "Building",
+      "Usability"
+    ],
+    "source": "https://github.com/SimonFlapse/QuickPickupUtils",
+    "readme": "https://github.com/SimonFlapse/QuickPickupUtils/blob/main/README.md",
+    "releases": "https://github.com/SimonFlapse/QuickPickupUtils/releases",
+    "stable": true,
+    "framework": {
+      "name": "Native",
+      "version": "1.5.4-beta-6"
+    },
+    "language": "Java",
+    "commands": {
+      "default": [
+        "java",
+        "-jar",
+        "quick-pickup-utils-1.0.0.jar",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ]
+    },
+    "compatibility": {
+      "systems": [
+        "Linux",
+        "Windows",
+        "Mac"
+      ],
+      "clients": [
+        "Origins"
+      ]
+    },
+    "submissionDate": "09-07-2024 23:10:00",
+    "updateDate": "09-07-2024 23:10:00",
+    "isOutdated": false,
+    "rating": 0
+  },
+  {
     "title": "Rainbow BackGround",
     "description": "Change the color of the BackGround.\n\n- `/r set` to set the ID of the furni\n- Use `/r on` to start the animation\n- `/r off` to stop it\n- `/r 0.5` change the delay between color (0.2 by default)",
     "authors": [
