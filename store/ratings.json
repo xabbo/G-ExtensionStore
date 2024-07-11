@@ -293,7 +293,7 @@
   },
   {
     "extension": "G-Trader",
-    "rating": 335
+    "rating": 345
   },
   {
     "extension": "fastbuy",
@@ -305,7 +305,7 @@
   },
   {
     "extension": "G-WallMover",
-    "rating": 340
+    "rating": 350
   },
   {
     "extension": "G-itemViewer",
@@ -314,5 +314,9 @@
   {
     "extension": "Quick Pickup Utils",
     "rating": 230
+  },
+  {
+    "extension": "Poker",
+    "rating": 30
   }
 ]

@@ -1681,7 +1681,7 @@
         "name": "0xb0bba",
         "discord": "disciplined",
         "extensionsCount": 1,
-        "reputation": 335
+        "reputation": 345
       }
     ],
     "version": "0.5.0",
@@ -1761,7 +1761,7 @@
     "submissionDate": "03-07-2024 16:00:00",
     "updateDate": "10-07-2024 22:55:00",
     "isOutdated": false,
-    "rating": 335
+    "rating": 345
   },
   {
     "title": "G-Translator",
@@ -1889,7 +1889,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 1,
-        "reputation": 340
+        "reputation": 350
       }
     ],
     "version": "1.2",
@@ -1940,7 +1940,7 @@
     "submissionDate": "06-07-2024 23:45:00",
     "updateDate": "10-07-2024 20:00:00",
     "isOutdated": false,
-    "rating": 340
+    "rating": 350
   },
   {
     "title": "G-Whisper",
@@ -2934,7 +2934,7 @@
         "username": "Nanobyte",
         "discord": "@boyd9037",
         "extensionsCount": 1,
-        "reputation": 0
+        "reputation": 30
       }
     ],
     "version": "1.1",
@@ -3012,7 +3012,7 @@
     "submissionDate": "10-07-2024 23:30:00",
     "updateDate": "10-07-2024 23:30:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 30
   },
   {
     "title": "PositionGo",
