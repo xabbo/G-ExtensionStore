@@ -2925,6 +2925,96 @@
     "rating": 320
   },
   {
+    "title": "Poker",
+    "description": "An extension for managing, rolling, and resetting dice with automated poker hand evaluation and game interaction.",
+    "authors": [
+      {
+        "name": "Nanobyte",
+        "hotel": ".com",
+        "username": "Nanobyte",
+        "discord": "@boyd9037",
+        "extensionsCount": 1,
+        "reputation": 0
+      }
+    ],
+    "version": "1.1",
+    "categories": [
+      "Usability"
+    ],
+    "source": "https://github.com/boydmeyer/poker/tree/main",
+    "readme": "https://github.com/boydmeyer/poker/blob/main/README.md",
+    "stable": true,
+    "framework": {
+      "name": "GoEarth",
+      "version": "0.2.3"
+    },
+    "language": "Go",
+    "commands": {
+      "default": [
+        "cmd",
+        "/C",
+        "poker-win.exe",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ],
+      "windows": [
+        "cmd",
+        "/C",
+        "poker-win.exe",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ],
+      "mac": [
+        "chmod",
+        "+x",
+        "poker-mac",
+        "&&",
+        "./poker-mac",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ],
+      "linux": [
+        "chmod",
+        "+x",
+        "poker-linux",
+        "&&",
+        "./poker-linux",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ]
+    },
+    "compatibility": {
+      "systems": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "clients": [
+        "Origins"
+      ]
+    },
+    "submissionDate": "10-07-2024 23:30:00",
+    "updateDate": "10-07-2024 23:30:00",
+    "isOutdated": false,
+    "rating": 0
+  },
+  {
     "title": "PositionGo",
     "description": "Save/Load positions for certain rooms. Move to a position with a single command.\nFxied a coding mistake that caused the extension to only allow you to save 1 postion and would overwrite to save a new one.",
     "authors": [
