@@ -6140,7 +6140,7 @@
   },
   {
     "title": "G-Trader",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "_object": {
       "title": "G-Trader",
       "description": "Adds useful commands for trading and inventory management in Habbo Origins\n:trade [amount] Automatically adds multiple items to the trade\n:count Count items in your hand\n:countroom Count items in the room\n:viewtrade View trade info",
@@ -6150,7 +6150,7 @@
           "discord": "disciplined"
         }
       ],
-      "version": "0.4.0",
+      "version": "0.5.0",
       "categories": [
         "Usability",
         "Trading"
@@ -6225,7 +6225,7 @@
         ]
       },
       "submissionDate": "03-07-2024 16:00:00",
-      "updateDate": "07-07-2024 17:00:00",
+      "updateDate": "10-07-2024 22:55:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6268,9 +6268,19 @@
         "timestamp": 1720364851616,
         "locked": false,
         "score": 75
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1260959113093845093",
+        "extVersion": "0.5.0",
+        "type": "update",
+        "timestamp": 1720706480295,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720284498042
+    "latestEmbed": 1720706480295
   },
   {
     "title": "fastbuy",
@@ -6512,7 +6522,7 @@
   },
   {
     "title": "G-WallMover",
-    "version": "1.1",
+    "version": "1.2",
     "_object": {
       "title": "G-WallMover",
       "description": "Lets you Move fast Wall Items in Origin by scrolling with your Mousewheel",
@@ -6522,7 +6532,7 @@
           "discord": "qdave"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "categories": [
         "Usability"
       ],
@@ -6568,7 +6578,7 @@
         ]
       },
       "submissionDate": "06-07-2024 23:45:00",
-      "updateDate": "09-07-2024 20:00:00",
+      "updateDate": "10-07-2024 20:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6591,9 +6601,19 @@
         "timestamp": 1720561649733,
         "locked": false,
         "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1260959114755047465",
+        "extVersion": "1.2",
+        "type": "update",
+        "timestamp": 1720706480733,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720349806375
+    "latestEmbed": 1720706480733
   },
   {
     "title": "G-itemViewer",
