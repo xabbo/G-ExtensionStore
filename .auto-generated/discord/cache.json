@@ -2627,25 +2627,28 @@
   },
   {
     "title": "ListeningMotto",
-    "version": "1.1",
+    "version": "2.0",
     "_object": {
       "title": "ListeningMotto",
       "description": "Display current spotify music you listening in your motto.",
       "authors": [
         {
-          "name": "Lxx",
-          "discord": "Lx#3330"
+          "name": "Lx",
+          "hotel": ".com.br",
+          "username": "Lxx",
+          "discord": "riotspacebar#0000"
         }
       ],
-      "version": "1.1",
+      "version": "2.0",
       "categories": [
         "Fun"
       ],
       "source": "https://github.com/iIlusion/ListeningMission",
+      "readme": "https://github.com/iIlusion/ListeningMission/blob/master/README.md",
       "stable": true,
       "framework": {
         "name": "G-Node",
-        "version": "0.1.3"
+        "version": "0.2.18"
       },
       "language": "Node.js",
       "commands": {
@@ -2676,7 +2679,7 @@
         ]
       },
       "submissionDate": "27-09-2021 02:01:24",
-      "updateDate": "10-02-2022 14:45:30",
+      "updateDate": "12-07-2024 00:50:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -2729,9 +2732,19 @@
         "timestamp": 1644516989259,
         "locked": false,
         "score": 25
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1261205919933661216",
+        "extVersion": "2.0",
+        "type": "update",
+        "timestamp": 1720765323949,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1644516989259
+    "latestEmbed": 1720765323949
   },
   {
     "title": "Friend Remover",
