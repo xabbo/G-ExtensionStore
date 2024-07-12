@@ -3142,14 +3142,14 @@
         "username": "PolarBear",
         "discord": "simonflapse",
         "extensionsCount": 1,
-        "reputation": 250
+        "reputation": 270
       },
       {
         "name": "Hotel",
         "username": "Hotel",
         "discord": "jouster",
         "extensionsCount": 1,
-        "reputation": 250
+        "reputation": 270
       }
     ],
     "version": "1.0.0",
@@ -3192,7 +3192,7 @@
     "submissionDate": "09-07-2024 23:10:00",
     "updateDate": "09-07-2024 23:10:00",
     "isOutdated": false,
-    "rating": 250
+    "rating": 270
   },
   {
     "title": "Rainbow BackGround",
