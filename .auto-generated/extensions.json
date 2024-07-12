@@ -2014,7 +2014,7 @@
       {
         "name": "madlad",
         "extensionsCount": 1,
-        "reputation": 250
+        "reputation": 260
       }
     ],
     "version": "0.2.0",
@@ -2053,7 +2053,7 @@
     "submissionDate": "09-07-2024 12:47:00",
     "updateDate": "11-07-2024 23:28:00",
     "isOutdated": false,
-    "rating": 250
+    "rating": 260
   },
   {
     "title": "GChatSaver",
@@ -2934,7 +2934,7 @@
         "username": "Nanobyte",
         "discord": "@boyd9037",
         "extensionsCount": 1,
-        "reputation": 110
+        "reputation": 130
       }
     ],
     "version": "1.1",
@@ -3012,7 +3012,7 @@
     "submissionDate": "10-07-2024 23:30:00",
     "updateDate": "10-07-2024 23:30:00",
     "isOutdated": false,
-    "rating": 110
+    "rating": 130
   },
   {
     "title": "PositionGo",
