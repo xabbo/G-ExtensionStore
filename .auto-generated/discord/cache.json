@@ -6617,7 +6617,7 @@
   },
   {
     "title": "G-itemViewer",
-    "version": "0.1.4",
+    "version": "0.2.0",
     "_object": {
       "title": "G-itemViewer",
       "description": "A Habbo-styled GUI used to count, value and inspect Inventory and Room furni and wallitems",
@@ -6626,7 +6626,7 @@
           "name": "madlad"
         }
       ],
-      "version": "0.1.4",
+      "version": "0.2.0",
       "categories": [
         "Usability"
       ],
@@ -6660,7 +6660,7 @@
         ]
       },
       "submissionDate": "09-07-2024 12:47:00",
-      "updateDate": "10-07-2024 13:28:00",
+      "updateDate": "11-07-2024 23:28:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6711,6 +6711,16 @@
         "extVersion": "0.1.4",
         "type": "update",
         "timestamp": 1720618540120,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1261158769136631808",
+        "extVersion": "0.2.0",
+        "type": "update",
+        "timestamp": 1720754081982,
         "locked": false,
         "score": 0
       }
