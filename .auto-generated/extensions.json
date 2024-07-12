@@ -1889,7 +1889,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 1,
-        "reputation": 375
+        "reputation": 400
       }
     ],
     "version": "1.2",
@@ -1940,7 +1940,7 @@
     "submissionDate": "06-07-2024 23:45:00",
     "updateDate": "10-07-2024 20:00:00",
     "isOutdated": false,
-    "rating": 375
+    "rating": 400
   },
   {
     "title": "G-Whisper",
@@ -1960,7 +1960,7 @@
         "username": "Lxx",
         "discord": "Lx#2000",
         "extensionsCount": 2,
-        "reputation": 755
+        "reputation": 805
       }
     ],
     "version": "1.0",
@@ -2014,7 +2014,7 @@
       {
         "name": "madlad",
         "extensionsCount": 1,
-        "reputation": 260
+        "reputation": 305
       }
     ],
     "version": "0.2.0",
@@ -2053,7 +2053,7 @@
     "submissionDate": "09-07-2024 12:47:00",
     "updateDate": "11-07-2024 23:28:00",
     "isOutdated": false,
-    "rating": 260
+    "rating": 305
   },
   {
     "title": "GChatSaver",
@@ -2441,7 +2441,7 @@
         "username": "Lxx",
         "discord": "riotspacebar#0000",
         "extensionsCount": 2,
-        "reputation": 755
+        "reputation": 805
       }
     ],
     "version": "2.0",
@@ -2486,7 +2486,7 @@
     "submissionDate": "27-09-2021 02:01:24",
     "updateDate": "12-07-2024 00:50:00",
     "isOutdated": false,
-    "rating": 505
+    "rating": 555
   },
   {
     "title": "MackleEverywhere",
@@ -2937,7 +2937,7 @@
         "username": "Nanobyte",
         "discord": "@boyd9037",
         "extensionsCount": 1,
-        "reputation": 130
+        "reputation": 150
       }
     ],
     "version": "1.1",
@@ -3015,7 +3015,7 @@
     "submissionDate": "10-07-2024 23:30:00",
     "updateDate": "10-07-2024 23:30:00",
     "isOutdated": false,
-    "rating": 130
+    "rating": 150
   },
   {
     "title": "PositionGo",

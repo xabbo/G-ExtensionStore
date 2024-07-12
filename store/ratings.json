@@ -129,7 +129,7 @@
   },
   {
     "extension": "ListeningMotto",
-    "rating": 505
+    "rating": 555
   },
   {
     "extension": "Friend Remover",
@@ -305,11 +305,11 @@
   },
   {
     "extension": "G-WallMover",
-    "rating": 375
+    "rating": 400
   },
   {
     "extension": "G-itemViewer",
-    "rating": 260
+    "rating": 305
   },
   {
     "extension": "Quick Pickup Utils",
@@ -317,6 +317,6 @@
   },
   {
     "extension": "Poker",
-    "rating": 130
+    "rating": 150
   }
 ]
