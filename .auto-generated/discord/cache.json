@@ -6946,5 +6946,109 @@
       }
     ],
     "latestEmbed": 1720706628790
+  },
+  {
+    "title": "autogarland",
+    "version": "1.0",
+    "_object": {
+      "title": "autogarland",
+      "description": "An extension to automatically outline your room using garlands.",
+      "authors": [
+        {
+          "name": "chirp24",
+          "hotel": ".com",
+          "username": "chirp",
+          "discord": "@p1nk_axoloti"
+        }
+      ],
+      "version": "1.0",
+      "categories": [
+        "Usability"
+      ],
+      "source": "https://github.com/chirp24/autogarland/tree/main",
+      "readme": "https://github.com/chirp24/autogarland/blob/main/README.md",
+      "stable": true,
+      "framework": {
+        "name": "GoEarth",
+        "version": "0.2.6"
+      },
+      "language": "Go",
+      "commands": {
+        "default": [
+          "cmd",
+          "/C",
+          "autogarland-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "windows": [
+          "cmd",
+          "/C",
+          "autogarland-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "mac": [
+          "chmod",
+          "+x",
+          "autogarland-mac",
+          "&&",
+          "./fastbuy-mac",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "linux": [
+          "chmod",
+          "+x",
+          "autogarland-linux",
+          "&&",
+          "./fastbuy-linux",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "clients": [
+          "Origins"
+        ]
+      },
+      "submissionDate": "14-07-2024 03:22:00",
+      "updateDate": "14-07-2024 03:22:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1262079581872062707",
+        "extVersion": "1.0",
+        "type": "publish",
+        "timestamp": 1720973621025,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1720973621025
   }
 ]
