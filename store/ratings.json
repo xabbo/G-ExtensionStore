@@ -309,7 +309,7 @@
   },
   {
     "extension": "G-itemViewer",
-    "rating": 390
+    "rating": 440
   },
   {
     "extension": "Quick Pickup Utils",
@@ -318,5 +318,9 @@
   {
     "extension": "Poker",
     "rating": 150
+  },
+  {
+    "extension": "autogarland",
+    "rating": 70
   }
 ]

@@ -6765,7 +6765,7 @@
         "type": "update",
         "timestamp": 1720916972768,
         "locked": false,
-        "score": 50
+        "score": 100
       }
     ],
     "latestEmbed": 1720916972768
@@ -7046,7 +7046,7 @@
         "type": "publish",
         "timestamp": 1720973621025,
         "locked": false,
-        "score": 0
+        "score": 60
       }
     ],
     "latestEmbed": 1720973621025
