@@ -6650,7 +6650,7 @@
   },
   {
     "title": "G-itemViewer",
-    "version": "0.5.1",
+    "version": "0.6.0",
     "_object": {
       "title": "G-itemViewer",
       "description": "A Habbo-styled GUI used to view, pick-up and trade items!",
@@ -6659,7 +6659,7 @@
           "name": "madlad"
         }
       ],
-      "version": "0.5.1",
+      "version": "0.6.0",
       "categories": [
         "Usability"
       ],
@@ -6693,7 +6693,7 @@
         ]
       },
       "submissionDate": "09-07-2024 12:47:00",
-      "updateDate": "15-07-2024 12:53:00",
+      "updateDate": "16-07-2024 00:09:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6784,6 +6784,16 @@
         "extVersion": "0.5.1",
         "type": "update",
         "timestamp": 1721044778353,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1262736654591066212",
+        "extVersion": "0.6.0",
+        "type": "update",
+        "timestamp": 1721130279213,
         "locked": false,
         "score": 0
       }
