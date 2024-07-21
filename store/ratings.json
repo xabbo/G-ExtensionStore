@@ -297,11 +297,11 @@
   },
   {
     "extension": "fastbuy",
-    "rating": 170
+    "rating": 180
   },
   {
     "extension": "easydice",
-    "rating": 185
+    "rating": 195
   },
   {
     "extension": "G-WallMover",
@@ -309,7 +309,7 @@
   },
   {
     "extension": "G-itemViewer",
-    "rating": 515
+    "rating": 525
   },
   {
     "extension": "Quick Pickup Utils",
