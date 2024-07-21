@@ -6307,7 +6307,7 @@
   },
   {
     "title": "fastbuy",
-    "version": "1.0",
+    "version": "1.1",
     "_object": {
       "title": "fastbuy",
       "description": "An extension to purchase items in bulk from the store.",
@@ -6319,7 +6319,7 @@
           "discord": "@p1nk_axoloti"
         }
       ],
-      "version": "1.0",
+      "version": "1.1",
       "categories": [
         "Usability"
       ],
@@ -6392,7 +6392,7 @@
         ]
       },
       "submissionDate": "06-07-2024 09:00:00",
-      "updateDate": "06-07-2024 09:00:00",
+      "updateDate": "19-07-2024 18:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6405,16 +6405,26 @@
         "timestamp": 1720284497640,
         "locked": false,
         "score": 160
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1264428497871306804",
+        "extVersion": "1.1",
+        "type": "update",
+        "timestamp": 1721533646157,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720284497640
+    "latestEmbed": 1721533646157
   },
   {
     "title": "easydice",
-    "version": "1.3",
+    "version": "1.5",
     "_object": {
       "title": "easydice",
-      "description": "Use :setup, and reset/roll 5 dice in order. Now, :close, and :roll will roll/close those dice for you.",
+      "description": "Use :setup. Then :roll, :close, and :tri.",
       "authors": [
         {
           "name": "chirp24",
@@ -6423,7 +6433,7 @@
           "discord": "@p1nk_axoloti"
         }
       ],
-      "version": "1.3",
+      "version": "1.5",
       "categories": [
         "Usability"
       ],
@@ -6496,7 +6506,7 @@
         ]
       },
       "submissionDate": "07-07-2024 07:00:00",
-      "updateDate": "07-07-2024 19:50:00",
+      "updateDate": "20-07-2024 22:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6539,9 +6549,19 @@
         "timestamp": 1720398788892,
         "locked": false,
         "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1264428496030142476",
+        "extVersion": "1.5",
+        "type": "update",
+        "timestamp": 1721533645791,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720349654965
+    "latestEmbed": 1721533645791
   },
   {
     "title": "G-WallMover",
