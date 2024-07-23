@@ -6421,7 +6421,7 @@
   },
   {
     "title": "easydice",
-    "version": "1.6",
+    "version": "1.7",
     "_object": {
       "title": "easydice",
       "description": "Use :setup. Then :roll, :close, and :tri.",
@@ -6433,7 +6433,7 @@
           "discord": "@p1nk_axoloti"
         }
       ],
-      "version": "1.6",
+      "version": "1.7",
       "categories": [
         "Usability"
       ],
@@ -6506,7 +6506,7 @@
         ]
       },
       "submissionDate": "07-07-2024 07:00:00",
-      "updateDate": "21-07-2024 04:09:00",
+      "updateDate": "21-07-2024 15:50:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6567,6 +6567,16 @@
         "extVersion": "1.6",
         "type": "update",
         "timestamp": 1721557858975,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1265102785117028426",
+        "extVersion": "1.7",
+        "type": "update",
+        "timestamp": 1721694408908,
         "locked": false,
         "score": 0
       }
