@@ -5660,7 +5660,7 @@
   },
   {
     "title": "RoomLogger",
-    "version": "1.2",
+    "version": "1.3.4",
     "_object": {
       "title": "RoomLogger",
       "description": "The Best RoomLogger !\n\nLog Chats, Whispers, User Actions, User Stepping in certain locations...\nAnd all can be integrated with Discord!",
@@ -5672,7 +5672,7 @@
           "discord": "thauanvargas"
         }
       ],
-      "version": "1.2",
+      "version": "1.3.4",
       "categories": [
         "Usability",
         "Fun"
@@ -5706,11 +5706,12 @@
           "Mac"
         ],
         "clients": [
-          "Flash"
+          "Flash",
+          "Origins"
         ]
       },
       "submissionDate": "07-02-2024 15:40:00",
-      "updateDate": "16-02-2024 16:16:00",
+      "updateDate": "22-06-2024 22:26:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -5743,9 +5744,19 @@
         "timestamp": 1719355455334,
         "locked": false,
         "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1265301758037725237",
+        "extVersion": "1.3.4",
+        "type": "update",
+        "timestamp": 1721741847662,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1719355455334
+    "latestEmbed": 1721741847662
   },
   {
     "title": "Habbo Scanner",
