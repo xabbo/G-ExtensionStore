@@ -6966,7 +6966,7 @@
   },
   {
     "title": "Poker",
-    "version": "1.1",
+    "version": "1.2",
     "_object": {
       "title": "Poker",
       "description": "An extension for managing, rolling, and resetting dice with automated poker hand evaluation and game interaction.",
@@ -6978,7 +6978,7 @@
           "discord": "@boyd9037"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "categories": [
         "Usability"
       ],
@@ -7051,7 +7051,7 @@
         ]
       },
       "submissionDate": "10-07-2024 23:30:00",
-      "updateDate": "10-07-2024 23:30:00",
+      "updateDate": "24-07-2024 15:00:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -7064,9 +7064,19 @@
         "timestamp": 1720706628790,
         "locked": false,
         "score": 160
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1265727113948958782",
+        "extVersion": "1.2",
+        "type": "update",
+        "timestamp": 1721843260415,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1720706628790
+    "latestEmbed": 1721843260415
   },
   {
     "title": "autogarland",
