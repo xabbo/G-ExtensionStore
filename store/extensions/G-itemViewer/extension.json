@@ -1,12 +1,12 @@
 {
   "title": "G-itemViewer",
-  "description": "A Habbo-styled GUI used to view, pick-up and trade items!",
+  "description": "A Habbo-styled GUI used to view, pick-up and trade items! NOTE: Sends data to a publically accessible API (https://gitemviewer.fly.dev/scans/USERPROFILE)",
   "authors": [
     {
       "name": "madlad"
     }
   ],
-  "version": "1.5.0",
+  "version": "1.6.0",
   "categories": ["Usability"],
   
   "source": "https://github.com/bolognesandwiches/G-Inventory-Viewer/tree/master",
@@ -30,6 +30,6 @@
   },
 
   "submissionDate": "09-07-2024 12:47:00",
-  "updateDate": "22-07-2024 22:01:00",
+  "updateDate": "24-07-2024 15:01:00",
   "isOutdated": false
 }
