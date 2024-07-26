@@ -6986,7 +6986,7 @@
   },
   {
     "title": "Poker",
-    "version": "1.3",
+    "version": "1.3.1",
     "_object": {
       "title": "Poker",
       "description": "An extension for managing, rolling, and resetting dice with automated poker hand evaluation and game interaction.",
@@ -6998,7 +6998,7 @@
           "discord": "@boyd9037"
         }
       ],
-      "version": "1.3",
+      "version": "1.3.1",
       "categories": [
         "Usability"
       ],
@@ -7071,7 +7071,7 @@
         ]
       },
       "submissionDate": "10-07-2024 23:30:00",
-      "updateDate": "26-07-2024 00:00:00",
+      "updateDate": "26-07-2024 17:30:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -7102,6 +7102,16 @@
         "extVersion": "1.3",
         "type": "update",
         "timestamp": 1721969794599,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1266484732275986575",
+        "extVersion": "1.3.1",
+        "type": "update",
+        "timestamp": 1722023890795,
         "locked": false,
         "score": 0
       }
