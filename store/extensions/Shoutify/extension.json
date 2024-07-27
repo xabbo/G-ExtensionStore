@@ -1,0 +1,85 @@
+{
+  "title": "Shoutify",
+  "description": "The ultimate chat extension that transforms all your say-chats into shouts!",
+  "authors": [
+    {
+      "name": "Nanobyte",
+      "hotel": ".com",
+      "username": "Nanobyte",
+      "discord": "@boyd9037"
+    }
+  ],
+  "version": "1.0.0",
+  "categories": ["Usability"],
+
+  "source": "https://github.com/boydmeyer/shoutify/tree/main",
+  "readme": "https://github.com/boydmeyer/shoutify/blob/main/README.MD",
+
+  "stable": true,
+
+  "framework": {
+    "name": "GoEarth",
+    "version": "0.2.3"
+  },
+
+  "language": "Go",
+  "commands": {
+    "default": [
+      "cmd",
+      "/C",
+      "shoutify-win.exe",
+      "-c",
+      "{cookie}",
+      "-p",
+      "{port}",
+      "-f",
+      "{filename}"
+    ],
+    "windows": [
+      "cmd",
+      "/C",
+      "shoutify-win.exe",
+      "-c",
+      "{cookie}",
+      "-p",
+      "{port}",
+      "-f",
+      "{filename}"
+    ],
+    "mac": [
+      "chmod",
+      "+x",
+      "shoutify-mac",
+      "&&",
+      "./shoutify-mac",
+      "-c",
+      "{cookie}",
+      "-p",
+      "{port}",
+      "-f",
+      "{filename}"
+    ],
+    "linux": [
+      "chmod",
+      "+x",
+      "shoutify-linux",
+      "&&",
+      "./shoutify-linux",
+      "-c",
+      "{cookie}",
+      "-p",
+      "{port}",
+      "-f",
+      "{filename}"
+    ]
+  },
+
+  "compatibility": {
+    "systems": ["Windows", "Mac", "Linux"],
+    "clients": ["Origins"]
+  },
+
+  "submissionDate": "27-07-2024 18:00:00",
+  "updateDate": "27-07-2024 18:00:00",
+  "isOutdated": false
+}
