@@ -322,5 +322,9 @@
   {
     "extension": "autogarland",
     "rating": 140
+  },
+  {
+    "extension": "Shoutify",
+    "rating": 30
   }
 ]
