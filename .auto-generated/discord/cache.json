@@ -7231,5 +7231,109 @@
       }
     ],
     "latestEmbed": 1720973621025
+  },
+  {
+    "title": "Shoutify",
+    "version": "1.0.0",
+    "_object": {
+      "title": "Shoutify",
+      "description": "The ultimate chat extension that transforms all your say-chats into shouts!",
+      "authors": [
+        {
+          "name": "Nanobyte",
+          "hotel": ".com",
+          "username": "Nanobyte",
+          "discord": "@boyd9037"
+        }
+      ],
+      "version": "1.0.0",
+      "categories": [
+        "Usability"
+      ],
+      "source": "https://github.com/boydmeyer/shoutify/tree/main",
+      "readme": "https://github.com/boydmeyer/shoutify/blob/main/README.MD",
+      "stable": true,
+      "framework": {
+        "name": "GoEarth",
+        "version": "0.2.3"
+      },
+      "language": "Go",
+      "commands": {
+        "default": [
+          "cmd",
+          "/C",
+          "shoutify-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "windows": [
+          "cmd",
+          "/C",
+          "shoutify-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "mac": [
+          "chmod",
+          "+x",
+          "shoutify-mac",
+          "&&",
+          "./shoutify-mac",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "linux": [
+          "chmod",
+          "+x",
+          "shoutify-linux",
+          "&&",
+          "./shoutify-linux",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "clients": [
+          "Origins"
+        ]
+      },
+      "submissionDate": "27-07-2024 18:00:00",
+      "updateDate": "27-07-2024 18:00:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1266792420427698351",
+        "extVersion": "1.0.0",
+        "type": "publish",
+        "timestamp": 1722097249214,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1722097249214
   }
 ]
