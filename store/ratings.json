@@ -326,5 +326,9 @@
   {
     "extension": "Shoutify",
     "rating": 50
+  },
+  {
+    "extension": "Autotyper",
+    "rating": 50
   }
 ]
