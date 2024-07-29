@@ -330,5 +330,9 @@
   {
     "extension": "Autotyper",
     "rating": 70
+  },
+  {
+    "extension": "GptReply",
+    "rating": 50
   }
 ]
