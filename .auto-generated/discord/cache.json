@@ -6701,7 +6701,7 @@
   },
   {
     "title": "G-itemViewer",
-    "version": "1.7.1",
+    "version": "1.8.0",
     "_object": {
       "title": "G-itemViewer",
       "description": "A Habbo-styled GUI used to view, pick-up and trade items! NOTE: Sends data to a publically accessible API if opted-in (https://gitemviewer.fly.dev/scans/USERPROFILE)",
@@ -6710,7 +6710,7 @@
           "name": "madlad"
         }
       ],
-      "version": "1.7.1",
+      "version": "1.8.0",
       "categories": [
         "Usability"
       ],
@@ -6744,7 +6744,7 @@
         ]
       },
       "submissionDate": "09-07-2024 12:47:00",
-      "updateDate": "28-07-2024 00:46:00",
+      "updateDate": "29-07-2024 01:46:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6915,6 +6915,16 @@
         "extVersion": "1.7.1",
         "type": "update",
         "timestamp": 1722127427504,
+        "locked": false,
+        "score": 0
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1267290185163473011",
+        "extVersion": "1.8.0",
+        "type": "update",
+        "timestamp": 1722215925761,
         "locked": false,
         "score": 0
       }
