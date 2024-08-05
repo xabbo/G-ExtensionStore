@@ -2107,7 +2107,7 @@
         "reputation": 650
       }
     ],
-    "version": "1.8.0",
+    "version": "1.9.0",
     "categories": [
       "Usability"
     ],
@@ -2130,18 +2130,43 @@
         "{port}",
         "-f",
         "{filename}"
+      ],
+      "windows": [
+        "cmd",
+        "/C",
+        "G-itemViewer.exe",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
+      ],
+      "mac": [
+        "chmod",
+        "+x",
+        "G-itemViewer-mac",
+        "&&",
+        "./G-itemViewwer-mac",
+        "-c",
+        "{cookie}",
+        "-p",
+        "{port}",
+        "-f",
+        "{filename}"
       ]
     },
     "compatibility": {
       "systems": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "clients": [
         "Origins"
       ]
     },
     "submissionDate": "09-07-2024 12:47:00",
-    "updateDate": "29-07-2024 01:46:00",
+    "updateDate": "05-08-2024 21:12:00",
     "isOutdated": false,
     "rating": 650
   },
