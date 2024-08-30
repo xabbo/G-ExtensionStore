@@ -7555,5 +7555,109 @@
       }
     ],
     "latestEmbed": 1722278767504
+  },
+  {
+    "title": "[AIO] Gamba Suite",
+    "version": "1.0.0",
+    "_object": {
+      "title": "[AIO] Gamba Suite",
+      "description": "Pkr, 13/21 and Tri dice automated rolling and resetting with in-chat hand evaluation. The all-in-one dice management extension.",
+      "authors": [
+        {
+          "name": "JTD",
+          "hotel": ".com",
+          "username": "JTD",
+          "discord": "jtd420"
+        }
+      ],
+      "version": "1.0.0",
+      "categories": [
+        "Usability"
+      ],
+      "source": "https://github.com/JTD420/Gamba-Suite/tree/main",
+      "readme": "https://github.com/JTD420/Gamba-Suite/blob/main/README.md",
+      "stable": true,
+      "framework": {
+        "name": "GoEarth",
+        "version": "0.3.5"
+      },
+      "language": "Go",
+      "commands": {
+        "default": [
+          "cmd",
+          "/C",
+          "Gamba-Suite-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "windows": [
+          "cmd",
+          "/C",
+          "Gamba-Suite-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "mac": [
+          "chmod",
+          "+x",
+          "Gamba-Suite-mac",
+          "&&",
+          "./Gamba-Suite-mac",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "linux": [
+          "chmod",
+          "+x",
+          "Gamba-Suite-linux",
+          "&&",
+          "./Gamba-Suite-linux",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "clients": [
+          "Origins"
+        ]
+      },
+      "submissionDate": "29-08-2024 23:55:00",
+      "updateDate": "29-08-2024 23:55:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1279067715214114866",
+        "extVersion": "1.0.0",
+        "type": "publish",
+        "timestamp": 1725023907531,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1725023907531
   }
 ]
