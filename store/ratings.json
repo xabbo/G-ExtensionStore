@@ -329,10 +329,14 @@
   },
   {
     "extension": "Autotyper",
-    "rating": 90
+    "rating": 100
   },
   {
     "extension": "GptReply",
     "rating": 150
+  },
+  {
+    "extension": "[AIO] Gamba Suite",
+    "rating": 30
   }
 ]

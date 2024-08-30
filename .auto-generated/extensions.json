@@ -172,7 +172,7 @@
         "username": "Nanobyte",
         "discord": "@codemeneer",
         "extensionsCount": 3,
-        "reputation": 360
+        "reputation": 370
       }
     ],
     "version": "2.0.0",
@@ -222,7 +222,7 @@
     "submissionDate": "27-07-2024 22:00:00",
     "updateDate": "23-08-2024 15:00:00",
     "isOutdated": false,
-    "rating": 90
+    "rating": 100
   },
   {
     "title": "BensaFect",
@@ -3089,7 +3089,7 @@
         "username": "Nanobyte",
         "discord": "@boyd9037",
         "extensionsCount": 3,
-        "reputation": 360
+        "reputation": 370
       }
     ],
     "version": "1.3.1",
@@ -3802,7 +3802,7 @@
         "username": "Nanobyte",
         "discord": "@boyd9037",
         "extensionsCount": 3,
-        "reputation": 360
+        "reputation": 370
       }
     ],
     "version": "1.0.0",
@@ -4478,7 +4478,7 @@
         "username": "JTD",
         "discord": "jtd420",
         "extensionsCount": 1,
-        "reputation": 0
+        "reputation": 30
       }
     ],
     "version": "1.0.0",
@@ -4556,7 +4556,7 @@
     "submissionDate": "29-08-2024 23:55:00",
     "updateDate": "29-08-2024 23:55:00",
     "isOutdated": false,
-    "rating": 0
+    "rating": 30
   },
   {
     "title": "autoclick",
