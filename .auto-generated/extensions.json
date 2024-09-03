@@ -4481,7 +4481,7 @@
         "reputation": 110
       }
     ],
-    "version": "1.0.0",
+    "version": "2.0.0",
     "categories": [
       "Usability"
     ],
@@ -4515,46 +4515,18 @@
         "{port}",
         "-f",
         "{filename}"
-      ],
-      "mac": [
-        "chmod",
-        "+x",
-        "Gamba-Suite-mac",
-        "&&",
-        "./Gamba-Suite-mac",
-        "-c",
-        "{cookie}",
-        "-p",
-        "{port}",
-        "-f",
-        "{filename}"
-      ],
-      "linux": [
-        "chmod",
-        "+x",
-        "Gamba-Suite-linux",
-        "&&",
-        "./Gamba-Suite-linux",
-        "-c",
-        "{cookie}",
-        "-p",
-        "{port}",
-        "-f",
-        "{filename}"
       ]
     },
     "compatibility": {
       "systems": [
-        "Windows",
-        "Mac",
-        "Linux"
+        "Windows"
       ],
       "clients": [
         "Origins"
       ]
     },
     "submissionDate": "29-08-2024 23:55:00",
-    "updateDate": "29-08-2024 23:55:00",
+    "updateDate": "02-09-2024 01:23:00",
     "isOutdated": false,
     "rating": 110
   },

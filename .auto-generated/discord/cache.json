@@ -7558,7 +7558,7 @@
   },
   {
     "title": "[AIO] Gamba Suite",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "_object": {
       "title": "[AIO] Gamba Suite",
       "description": "Pkr, 13/21 and Tri dice automated rolling and resetting with in-chat hand evaluation. The all-in-one dice management extension.",
@@ -7570,7 +7570,7 @@
           "discord": "jtd420"
         }
       ],
-      "version": "1.0.0",
+      "version": "2.0.0",
       "categories": [
         "Usability"
       ],
@@ -7604,46 +7604,18 @@
           "{port}",
           "-f",
           "{filename}"
-        ],
-        "mac": [
-          "chmod",
-          "+x",
-          "Gamba-Suite-mac",
-          "&&",
-          "./Gamba-Suite-mac",
-          "-c",
-          "{cookie}",
-          "-p",
-          "{port}",
-          "-f",
-          "{filename}"
-        ],
-        "linux": [
-          "chmod",
-          "+x",
-          "Gamba-Suite-linux",
-          "&&",
-          "./Gamba-Suite-linux",
-          "-c",
-          "{cookie}",
-          "-p",
-          "{port}",
-          "-f",
-          "{filename}"
         ]
       },
       "compatibility": {
         "systems": [
-          "Windows",
-          "Mac",
-          "Linux"
+          "Windows"
         ],
         "clients": [
           "Origins"
         ]
       },
       "submissionDate": "29-08-2024 23:55:00",
-      "updateDate": "29-08-2024 23:55:00",
+      "updateDate": "02-09-2024 01:23:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -7656,8 +7628,18 @@
         "timestamp": 1725023907531,
         "locked": false,
         "score": 100
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1280608100969222277",
+        "extVersion": "2.0.0",
+        "type": "update",
+        "timestamp": 1725391164219,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1725023907531
+    "latestEmbed": 1725391164219
   }
 ]
