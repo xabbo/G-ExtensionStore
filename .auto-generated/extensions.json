@@ -4159,12 +4159,12 @@
         "username": "3duard",
         "discord": "@eduard",
         "extensionsCount": 1,
-        "reputation": 180
+        "reputation": 190
       },
       {
         "name": "b7",
         "extensionsCount": 2,
-        "reputation": 1215
+        "reputation": 1225
       }
     ],
     "version": "1.2",
@@ -4242,7 +4242,7 @@
     "submissionDate": "26-06-2024 02:40:00",
     "updateDate": "15-09-2024 02:40:00",
     "isOutdated": false,
-    "rating": 180
+    "rating": 190
   },
   {
     "title": "TradeBlocker",
@@ -4928,7 +4928,7 @@
         "username": "1b7",
         "discord": "b7#8571",
         "extensionsCount": 2,
-        "reputation": 1215
+        "reputation": 1225
       }
     ],
     "version": "1.0.3",
