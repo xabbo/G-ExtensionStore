@@ -23,7 +23,7 @@
   "commands": {
     "default": ["cmd", "/C", "G-itemViewer.exe", "-c", "{cookie}", "-p", "{port}", "-f", "{filename}"],
     "windows": ["cmd", "/C", "G-itemViewer.exe", "-c", "{cookie}", "-p", "{port}", "-f", "{filename}"],
-    "mac": ["chmod", "+x", "G-itemViewer-mac", "&&", "./G-itemViewwer-mac", "-c", "{cookie}", "-p", "{port}", "-f", "{filename}"]
+    "mac": ["/bin/sh", "-c", "chmod +x G-itemViewer-mac && ./G-itemViewer-mac -p \"$1\" -c \"$2\" -f \"$3\"", "--", "{port}", "{cookie}", "{filename}"]
   },
   
   "compatibility": {
