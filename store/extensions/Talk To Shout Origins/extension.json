@@ -3,13 +3,16 @@
   "description": "Talk to shout, Shout to Talk, switch the functions with eachother",
   "authors": [
     {
-      "name": "Eduard",
-      "hotel": ".com",
-      "username": "3duard",
-      "discord": "@eduard"
+        "name": "Eduard",
+        "hotel": ".com",
+        "username": "3duard",
+        "discord": "@eduard"
+    },
+    {
+        "name": "b7"
     }
-  ],
-  "version": "1.1.1",
+],
+  "version": "1.2",
   "categories": ["Usability"],
   
   "source": "https://github.com/Edaurd/TalkToShout/",
@@ -19,7 +22,7 @@
   
   "framework": {
     "name": "GoEarth",
-    "version": "0.1.6"
+    "version": "0.4.0"
   },
 
   "language": "Go",
@@ -36,6 +39,6 @@
   },
 
   "submissionDate": "26-06-2024 02:40:00",
-  "updateDate": "02-07-2024 01:33:00",
+  "updateDate": "15-09-2024 02:40:00",
   "isOutdated": false
 }
