@@ -4160,9 +4160,14 @@
         "discord": "@eduard",
         "extensionsCount": 1,
         "reputation": 180
+      },
+      {
+        "name": "b7",
+        "extensionsCount": 2,
+        "reputation": 1215
       }
     ],
-    "version": "1.1.1",
+    "version": "1.2",
     "categories": [
       "Usability"
     ],
@@ -4171,7 +4176,7 @@
     "stable": true,
     "framework": {
       "name": "GoEarth",
-      "version": "0.1.6"
+      "version": "0.4.0"
     },
     "language": "Go",
     "commands": {
@@ -4235,7 +4240,7 @@
       ]
     },
     "submissionDate": "26-06-2024 02:40:00",
-    "updateDate": "02-07-2024 01:33:00",
+    "updateDate": "15-09-2024 02:40:00",
     "isOutdated": false,
     "rating": 180
   },
@@ -4922,8 +4927,8 @@
         "hotel": ".com",
         "username": "1b7",
         "discord": "b7#8571",
-        "extensionsCount": 1,
-        "reputation": 1035
+        "extensionsCount": 2,
+        "reputation": 1215
       }
     ],
     "version": "1.0.3",

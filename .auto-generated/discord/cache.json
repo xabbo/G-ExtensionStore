@@ -5947,7 +5947,7 @@
   },
   {
     "title": "Talk To Shout Origins",
-    "version": "1.1.1",
+    "version": "1.2",
     "_object": {
       "title": "Talk To Shout Origins",
       "description": "Talk to shout, Shout to Talk, switch the functions with eachother",
@@ -5957,9 +5957,12 @@
           "hotel": ".com",
           "username": "3duard",
           "discord": "@eduard"
+        },
+        {
+          "name": "b7"
         }
       ],
-      "version": "1.1.1",
+      "version": "1.2",
       "categories": [
         "Usability"
       ],
@@ -5968,7 +5971,7 @@
       "stable": true,
       "framework": {
         "name": "GoEarth",
-        "version": "0.1.6"
+        "version": "0.4.0"
       },
       "language": "Go",
       "commands": {
@@ -6032,7 +6035,7 @@
         ]
       },
       "submissionDate": "26-06-2024 02:40:00",
-      "updateDate": "02-07-2024 01:33:00",
+      "updateDate": "15-09-2024 02:40:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -6065,9 +6068,19 @@
         "timestamp": 1719880415137,
         "locked": false,
         "score": 50
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1300783114867445790",
+        "extVersion": "1.2",
+        "type": "update",
+        "timestamp": 1730201262348,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1719793091624
+    "latestEmbed": 1730201262348
   },
   {
     "title": "StickiesArt",
