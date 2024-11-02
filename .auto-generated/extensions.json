@@ -4252,7 +4252,7 @@
         "name": "Erotico",
         "discord": "thauanvargas",
         "extensionsCount": 1,
-        "reputation": 30
+        "reputation": 70
       }
     ],
     "version": "1.1",
@@ -4324,7 +4324,7 @@
     "submissionDate": "24-10-2024 10:00:00",
     "updateDate": "24-10-2024 10:00:00",
     "isOutdated": false,
-    "rating": 30
+    "rating": 70
   },
   {
     "title": "TradeBlocker",
@@ -4565,7 +4565,7 @@
         "username": "JTD",
         "discord": "jtd420",
         "extensionsCount": 1,
-        "reputation": 320
+        "reputation": 345
       }
     ],
     "version": "2.0.0",
@@ -4615,7 +4615,7 @@
     "submissionDate": "29-08-2024 23:55:00",
     "updateDate": "02-09-2024 01:23:00",
     "isOutdated": false,
-    "rating": 320
+    "rating": 345
   },
   {
     "title": "autoclick",
