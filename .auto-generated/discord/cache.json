@@ -7654,5 +7654,101 @@
       }
     ],
     "latestEmbed": 1725391164219
+  },
+  {
+    "title": "Trade Tracker",
+    "version": "1.1",
+    "_object": {
+      "title": "Trade Tracker",
+      "description": "Automates the process to track your profits and losts in trading.\nCurrent extension is integrated with API tsarcade.com\nIMPORTANT: This extension shares with the webapp legacyhabbo.me the following data of your Habbo\n- Your Username\n-The Server you are playing at (com, es, br)\n- Your Trades (items, quantities, who you traded with)\nIf you want your data deleted, please contact me through discord (thauanvargas).",
+      "authors": [
+        {
+          "name": "Erotico",
+          "discord": "thauanvargas"
+        }
+      ],
+      "version": "1.1",
+      "categories": [
+        "Usability",
+        "Trading"
+      ],
+      "source": "https://github.com/thauanvargas/arcade-tracker/",
+      "readme": "https://github.com/thauanvargas/arcade-tracker/blob/master/README.md",
+      "releases": "https://github.com/thauanvargas/arcade-tracker/releases",
+      "stable": true,
+      "framework": {
+        "name": "GoEarth",
+        "version": "0.4.0"
+      },
+      "language": "Go",
+      "commands": {
+        "default": [
+          "cmd",
+          "/C",
+          "arcade-tracker.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "windows": [
+          "cmd",
+          "/C",
+          "arcade-tracker-win.exe",
+          "-c",
+          "{cookie}",
+          "-p",
+          "{port}",
+          "-f",
+          "{filename}"
+        ],
+        "mac": [
+          "/bin/sh",
+          "-c",
+          "chmod +x arcade-tracker-mac && ./arcade-tracker-mac -p \"$1\" -c \"$2\" -f \"$3\"",
+          "--",
+          "{port}",
+          "{cookie}",
+          "{filename}"
+        ],
+        "linux": [
+          "/bin/sh",
+          "-c",
+          "chmod +x arcade-tracker-linux && ./arcade-tracker-linux -p \"$1\" -c \"$2\" -f \"$3\"",
+          "--",
+          "{port}",
+          "{cookie}",
+          "{filename}"
+        ]
+      },
+      "compatibility": {
+        "systems": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "clients": [
+          "Origins"
+        ]
+      },
+      "submissionDate": "24-10-2024 10:00:00",
+      "updateDate": "24-10-2024 10:00:00",
+      "isOutdated": false
+    },
+    "discordMessages": [
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1302285074284281938",
+        "extVersion": "1.1",
+        "type": "publish",
+        "timestamp": 1730559357389,
+        "locked": false,
+        "score": 0
+      }
+    ],
+    "latestEmbed": 1730559357389
   }
 ]
