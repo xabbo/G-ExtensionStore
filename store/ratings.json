@@ -97,7 +97,7 @@
   },
   {
     "extension": "xabbo",
-    "rating": 1035
+    "rating": 1045
   },
   {
     "extension": "LTDHelper",
@@ -338,5 +338,9 @@
   {
     "extension": "[AIO] Gamba Suite",
     "rating": 320
+  },
+  {
+    "extension": "Trade Tracker",
+    "rating": 30
   }
 ]
