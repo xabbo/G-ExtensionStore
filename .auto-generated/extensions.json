@@ -5002,52 +5002,74 @@
   },
   {
     "title": "xabbo",
-    "description": "enhanced habbo",
+    "description": "enhanced habbo\n\nrequires the .NET 8 Runtime",
     "authors": [
       {
         "name": "b7",
-        "hotel": ".com",
-        "username": "1b7",
-        "discord": "b7#8571",
+        "discord": "xb7c",
         "extensionsCount": 2,
         "reputation": 1225
       }
     ],
-    "version": "1.0.3",
+    "version": "1.1.1",
     "categories": [
       "Usability"
     ],
-    "source": "https://github.com/b7c/b7.Xabbo",
-    "readme": "https://github.com/b7c/b7.Xabbo/blob/master/README.md",
+    "source": "https://github.com/xabbo/xabbo",
+    "readme": "https://github.com/xabbo/xabbo/blob/main/README.md",
     "stable": true,
     "framework": {
       "name": "Xabbo",
-      "version": "1.0.0-beta.2"
+      "version": "1.0.1"
     },
     "language": "C#",
     "commands": {
       "default": [
         "cmd",
         "/C",
-        "b7.Xabbo.exe",
+        "xabbo.exe",
         "-c",
         "{cookie}",
         "-p",
         "{port}",
         "-f",
+        "{filename}",
+        ">",
+        "NUL",
+        "2>&1"
+      ],
+      "linux": [
+        "/bin/sh",
+        "-c",
+        "chmod +x xabbo-linux-x64 && ./xabbo-linux-x64 -p \"$1\" -c \"$2\" -f \"$3\" >& /dev/null",
+        "--",
+        "{port}",
+        "{cookie}",
+        "{filename}"
+      ],
+      "mac": [
+        "/bin/sh",
+        "-c",
+        "chmod +x xabbo-osx && ./xabbo-osx -p \"$1\" -c \"$2\" -f \"$3\" >& /dev/null",
+        "--",
+        "{port}",
+        "{cookie}",
         "{filename}"
       ]
     },
     "compatibility": {
       "systems": [
-        "Windows"
+        "Windows",
+        "Linux",
+        "Mac"
       ],
       "clients": [
-        "Flash"
+        "Flash",
+        "Origins"
       ]
     },
     "submissionDate": "04-09-2021 07:23:00",
-    "updateDate": "07-01-2022 05:04:00",
+    "updateDate": "31-10-2024 13:24:25",
     "isOutdated": false,
     "rating": 1035
   }
